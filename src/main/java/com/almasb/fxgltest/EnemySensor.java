@@ -11,7 +11,7 @@ import java.util.function.Predicate;
 import javafx.geometry.Point2D;
 
 /**
- * author simon kappeler Created At: 31.05.2021
+ * author Florian Büchi
  */
 public class EnemySensor extends Component {
 
