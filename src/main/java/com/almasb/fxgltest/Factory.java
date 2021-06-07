@@ -25,7 +25,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.*;
 
 /**
- * author simon kappeler Created At: 26.04.2021
+ * author Florian Büchi
  */
 public class Factory implements EntityFactory {
 
