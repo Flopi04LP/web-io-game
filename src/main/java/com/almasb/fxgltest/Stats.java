@@ -21,7 +21,7 @@ import javafx.scene.control.Button;
 import javafx.scene.paint.Color;
 
 /**
- * author simon kappeler Created At: 03.05.2021
+ * author Florian Büchi
  */
 public class Stats {
 
