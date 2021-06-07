@@ -5,7 +5,7 @@ import com.almasb.fxgl.dsl.FXGL;
 import static com.almasb.fxgl.dsl.FXGL.onCollisionBegin;
 
 /**
- * author simon kappeler Created At: 04.05.2021
+ * author simon Florian Büchi
  */
 public class CollisionEvents {
 
