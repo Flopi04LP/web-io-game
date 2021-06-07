@@ -8,7 +8,7 @@ import javafx.event.Event;
 import javafx.event.EventHandler;
 
 /**
- * author simon kappeler Created At: 03.05.2021
+ * author Florian Büchi
  */
 public class EventHandlers {
 
