@@ -8,7 +8,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 
 /**
- * author simon kappeler Created At: 10.05.2021
+ * author Florian Büchi
  */
 public class GUI {
 
