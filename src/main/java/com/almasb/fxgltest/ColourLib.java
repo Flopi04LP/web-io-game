@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 
 /**
  *
- * @author kappe
+ * @author Florian Büchi
  */
 public class ColourLib {
 
