@@ -16,7 +16,7 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * author simon kappeler Created At: 26.04.2021
+ * author Simon Kappeler
  */
 public class Starter extends GameApplication {
 
